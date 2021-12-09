@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="ADS_Proyecto_Final.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>UDB Inicio</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="Content/fontello.css">
+	<link href="styles/master.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="logo">
+				<a href="#"><img src="https://cdn-bkaia.nitrocdn.com/BFTxzGCeSiHeYakoWkKipwTAkydShuyH/assets/static/optimized/rev-77cb6c5/wp-content/uploads/2018/08/inventario.jpg"></a>
+			</div>
+			<div id="menu">
+				<ul>
+			            <li><a href="PVentas.aspx">Vender</a></li>
+                        <li><a href="PInventario.aspx">Inventario</a></li>
+                        <li><a href=".aspx">Salir</a></li>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="banner"></div>
+		<div id="page-wrapper">
+			
+		<div id="page">
+			
+			<div id="wide-content">
+				        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+							<script>
+                                <asp:ScriptReference Path="~/Scripts/bootstrap.min.js" />
+                            </script>
+						</asp:ContentPlaceHolder>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="footer">
+	<p>Copyright (c) 2012 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>. Photos by <a href="http://fotogrph.com/">Fotogrph</a>.</p>
+</div>
+    </form>
+</body>
+</html>

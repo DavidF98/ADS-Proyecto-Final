@@ -1,0 +1,36 @@
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\ADS Proyecto Final.dll.config
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\ADS Proyecto Final.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\ADS Proyecto Final.pdb
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\csc.exe
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\csc.exe.config
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\csc.rsp
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\csi.exe
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\csi.rsp
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.AppContext.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\vbc.exe
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\vbc.exe.config
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\vbc.rsp
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ale\source\repos\ADS Proyecto Final\obj\Debug\ADS Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Ale\source\repos\ADS Proyecto Final\obj\Debug\ADS Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\ADS Proyecto Final\obj\Debug\ADS Proyecto Final.csproj.CopyComplete
+C:\Users\Ale\source\repos\ADS Proyecto Final\obj\Debug\ADS Proyecto Final.dll
+C:\Users\Ale\source\repos\ADS Proyecto Final\obj\Debug\ADS Proyecto Final.pdb
